@@ -1,0 +1,41 @@
+body{
+  background-color: #161616;
+  font-family: 'Gugi', cursive;
+}
+
+.flex-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+
+.card{
+  width: 500px;
+  height: 360px;
+  background-color: rgba(255,255,255,0.8);
+}
+
+.btn{
+  width: 150px;
+  align-self: center;
+}
+
+h1{
+  color: #FFFFFF;
+  margin-bottom: 20px;
+  font-size: 90px;
+  font-family: 'Yesteryear', cursive;
+}
+
+h6{
+  align-self: flex-end;
+  margin-top: auto;
+  font-family: 'Indie Flower', cursive;
+}
+
+.data{
+  align-self: center;
+  font-size: 25px;
+}
