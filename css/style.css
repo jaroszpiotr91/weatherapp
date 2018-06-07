@@ -1,6 +1,10 @@
 body{
   background-color: #161616;
   font-family: 'Gugi', cursive;
+  height: auto; 
+  width: auto;
+  min-width: 1000px;
+  margin: 0 auto; 
 }
 
 .flex-container{
